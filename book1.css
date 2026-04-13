@@ -1,6 +1,5 @@
 body {
     background-color: black;
-    color: white;
     height: auto;
     width: auto;
     font-size: auto;
@@ -9,15 +8,10 @@ body {
 }
 
 h1, h2 {
-    
-}
-
-.note, .responsiblenote {
-    text-align: center;
-    color: red;
+    color: Gray;
 }
 
 p {
-    color: Blue;
+    color: White;
     text-align: left;
 }
