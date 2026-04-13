@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+    height: auto;
+    width: auto;
+    font-size: auto;
+    text-size: auto;
+    text-align: center;
+}
+
+h1, h2 {
+    
+}
+
+p {
+    color: Blue;
+    text-align: left;
+}
